@@ -1,0 +1,103 @@
+{
+  "schema": "jacked.integrations.v1",
+  "repositories": [
+    {
+      "name": "recall-memory-substrate",
+      "role": "recall compile context packets",
+      "source": "https://github.com/H-XX-D/recall-memory-substrate",
+      "revision": "b448f24e85309d3a3adc56bc1ad1aaca5d920d89",
+      "visibility": "public"
+    },
+    {
+      "name": "AURA",
+      "role": "AIWire task export with round-trip verification",
+      "source": "https://github.com/H-XX-D/AURA",
+      "revision": "ee2b81895c2f3d89bf66c0da9174daec3d6b3ab8",
+      "visibility": "public"
+    },
+    {
+      "name": "ephemeralskill",
+      "role": "Project-scoped skill discovery and explicit loading",
+      "source": "https://github.com/H-XX-D/ephemeralskill",
+      "revision": "8ebe02b115b3c251ce1c6744002c1b42efa7123a",
+      "visibility": "public"
+    },
+    {
+      "name": "aide",
+      "role": "Local terminal workflow and versioned JSON task reports",
+      "source": "https://github.com/H-XX-D/aide",
+      "revision": "26bb54fdf66af2787c7f8eeda4db15efe235c448",
+      "visibility": "private"
+    },
+    {
+      "name": "GAL.Graph_Abstraction_Layer",
+      "role": "MAL netlist export verified by GAL CLI",
+      "source": "https://github.com/H-XX-D/GAL.Graph_Abstraction_Layer",
+      "revision": "aaee9ba7e27b56ba90885fb3a0d38090b2935fe8",
+      "visibility": "public"
+    },
+    {
+      "name": "nexus-architecture",
+      "role": "Optional loopback claim assessment via /api/verify",
+      "source": "https://github.com/H-XX-D/nexus-architecture",
+      "revision": "67e021971a47cf91559b15098c517ad5c8846587",
+      "visibility": "private"
+    },
+    {
+      "name": "CRAMPACS-Governance",
+      "role": "Native study package checks and predeclared, durable task acceptance criteria",
+      "source": "https://github.com/H-XX-D/CRAMPACS-Governance",
+      "revision": "7659ab373b90341a4747b3141ebdee69311e1647",
+      "visibility": "public"
+    },
+    {
+      "name": "RRT-",
+      "role": "Typed relations between task claims and execution evidence",
+      "source": "https://github.com/H-XX-D/RRT-",
+      "revision": "01a5d7c6686a921d9da68c96df95a2775214780e",
+      "visibility": "public"
+    },
+    {
+      "name": "ZetaZero",
+      "role": "Optional ZetaZero model provider over its local OpenAI-compatible API",
+      "source": "https://github.com/H-XX-D/ZetaZero",
+      "revision": "a27a057b370b141308e0b8d3d3793d5307d54d76",
+      "visibility": "public"
+    },
+    {
+      "name": "zeta-zero-point-nine",
+      "role": "Optional text-only Zeta v0.9 provider over its local API",
+      "source": "https://github.com/H-XX-D/zeta-zero-point-nine",
+      "revision": "63f37b9e102bc9b2c749f2f939fb9441e9c463a9",
+      "visibility": "private"
+    },
+    {
+      "name": "AI-Safety-System-Design",
+      "role": "Model-independent tool authorization, bounded execution, and outcome audit",
+      "source": "https://github.com/H-XX-D/AI-Safety-System-Design",
+      "revision": "f1c84d0c3eb7765efd499622870407c9671f2090",
+      "visibility": "public"
+    },
+    {
+      "name": "psyche-v2",
+      "role": "Local SDK assessment of supplied calibrated inference signal exports",
+      "source": "https://github.com/H-XX-D/psyche-v2",
+      "revision": "09237ac019bb5b08b3bc4da4c06defa9aa58c3a5",
+      "visibility": "private"
+    },
+    {
+      "name": "Orkestra",
+      "role": "Local planning, execution and advisory review with separate receipts",
+      "source": "https://github.com/H-XX-D/Orkestra",
+      "revision": "3d21564be7c307c3171e1ef5b46a8db70a710743",
+      "visibility": "private"
+    },
+    {
+      "name": "Medicine-Cabinet",
+      "role": "Portable v1 capsule import and task capsule/tablet export",
+      "source": "https://github.com/H-XX-D/Medicine-Cabinet",
+      "revision": "9c603c77187dcf39bef8cd3934954bb8462c5cea",
+      "visibility": "private"
+    }
+  ]
+}

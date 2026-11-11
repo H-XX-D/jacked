@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "name": "jacked",
+  "agents": [
+    "codex"
+  ],
+  "canonicalDir": ".esk/skills",
+  "discovered": {
+    "codex": []
+  }
+}

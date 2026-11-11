@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.matrix/
+config/*.json
+config/certs/
+memory/*.json
+uploads/
+.env
+.env.*
+*.key
+*.pem
